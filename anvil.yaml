@@ -1,6 +1,6 @@
 allow_embedding: false
-name: mb-4-ecom-app-1
-package_name: mb_4_ecom_app_1
+name: mb-4-ecom-app1
+package_name: mb_4_ecom_app1
 runtime_options:
   client_version: '3'
   server_spec: {base: python314}
